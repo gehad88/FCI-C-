@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCI_TEST", "FCI_TEST.csproj", "{04C71C1C-5FD7-46D0-9E09-94C6CB0CAE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C71C1C-5FD7-46D0-9E09-94C6CB0CAE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C71C1C-5FD7-46D0-9E09-94C6CB0CAE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C71C1C-5FD7-46D0-9E09-94C6CB0CAE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C71C1C-5FD7-46D0-9E09-94C6CB0CAE01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD56387-7AA1-41BD-8C36-0FF18B50DE71}
+	EndGlobalSection
+EndGlobal
